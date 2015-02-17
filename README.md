@@ -1,7 +1,7 @@
 # Brunch with Fairies
-This is a quick and fairy simple skeleton for creating HTML5 games and other interactives with [Pixi](http://www.pixijs.com/) and CoffeeScript.
+A quick and fairy simple skeleton for creating HTML5 games and other interactives with [Pixi](http://www.pixijs.com/) and CoffeeScript.
 
-It's based on my hackathon-winning project [Motemote](willy-vvu.github.io/#motemote), minus the real-time networking.
+It's based on my hackathon-winning project [Motemote](http://willy-vvu.github.io/#motemote), minus the real-time networking.
 
 ## Also included in the box:
  - jQuery
